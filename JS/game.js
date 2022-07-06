@@ -6,7 +6,7 @@ const characters = [
   'ashe',
   'brand',
   'draven',
-  'ez',
+  'thresh',
   'katarina',
   'kha',
   'mf',
